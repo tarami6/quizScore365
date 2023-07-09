@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["New York", "London", "Paris", "Dublin"],
+    "correctAnswer": "Paris"
+  },
+  {
+    "question": "What is the capital of England?",
+    "options": ["New York", "London", "Paris", "Dublin"],
+    "correctAnswer": "London"
+  }
+]
